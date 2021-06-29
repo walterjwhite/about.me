@@ -1,0 +1,6 @@
+Refresh / Load time
+the actual github "page" is not refreshed immediately
+	it takes some time to process and generate
+	expect between 30 - 60 s from pushing to being able to see the changes live on https://<username>.github.io
+
+
